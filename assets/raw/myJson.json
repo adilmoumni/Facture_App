@@ -1,0 +1,90 @@
+{
+    "previous" : "some url to previous page",
+    "next" : "some url to next page",
+    "result": [
+        {
+            "statue": "true",
+            "num_serie":"1",
+            "date facture":"10/10/2020",
+            "num_facture":"8489", 
+            "statut":"YES"
+        },
+        {
+            "statue": "false",
+            "num_serie":"2",
+            "date facture":"10/10/2020",
+             "num_facture":"8489", 
+             "statut":"NON"
+        },
+        {
+            "statue": "true",
+            "num_serie":"3",
+            "date facture":"10/10/2020",
+             "num_facture":"8489",  
+             "statut":"NON"
+        },
+        {
+            "statue": "true",
+            "num_serie":"4",
+            "date facture":"10/10/2020",
+             "num_facture":"8489", 
+             "statut":"YES"
+        },
+        {
+            "statue": "true",
+            "num_serie":"5",
+            "date facture":"10/10/2020",
+             "num_facture":"8489", 
+             "statut":"YES"
+        },
+        {
+            "statue": "false",
+            "num_serie":"6",
+            "date facture":"10/10/2020",
+             "num_facture":"8489", 
+             "statut":"NON"
+        },
+        {
+            "statue": "false",
+            "num_serie":"7",
+            "date facture":"10/10/2020",
+             "num_facture":"8489", 
+             "statut":"NON"
+        },
+        {
+            "statue": "false",
+            "num_serie":"8",
+            "date facture":"10/10/2020",
+             "num_facture":"8489", 
+             "statut":"YES"
+        },
+        {
+            "statue": "false",
+            "num_serie":"9",
+            "date facture":"10/10/2020",
+             "num_facture":"8489", 
+             "statut":"YES"
+        },
+        {
+            "statue": "true",
+            "num_serie":"10",
+            "date facture":"10/10/2020",
+             "num_facture":"8489", 
+             "statut":"NON"
+        },
+        {
+            "statue": "true",
+            "num_serie":"11",
+            "date facture":"10/10/2020",
+             "num_facture":"8489", 
+             "statut":"NON"
+        },
+        {
+            "statue": "true",
+            "num_serie":"12",
+            "date facture":"10/10/2020",
+             "num_facture":"8489", 
+             "statut":"YES"
+        }
+    ]
+}
